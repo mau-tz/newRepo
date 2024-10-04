@@ -1,1 +1,3 @@
-es hora de estudiar
+aprendo git
+xd
+programando en c++
